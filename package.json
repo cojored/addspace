@@ -1,6 +1,6 @@
 {
   "name": "addspace",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "description": "Adds spaces to text",
   "main": "index.js",
   "repository": "github:cojored/addspace",
