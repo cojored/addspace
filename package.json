@@ -1,11 +1,12 @@
 {
   "name": "addspace",
-  "version": "1.0.7",
-  "description": "Adds Spaces to text",
+  "version": "1.0.8",
+  "description": "Adds spaces to text",
   "main": "index.js",
+  "repository": "github:cojored/addspace",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "cojored#1234",
+  "author": "cojored",
   "license": "MIT"
 }

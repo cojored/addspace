@@ -1,5 +1,5 @@
 # Add Space
-Puts Spaces in the string given
+Puts spaces in the string given
 
 
 ## Installation
