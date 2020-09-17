@@ -1,1 +1,1 @@
-const addspace = require('./data/addspace.js');
+const addspace = require(__dirname + '/data/addspace.js');
