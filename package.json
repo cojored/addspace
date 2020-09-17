@@ -4,6 +4,7 @@
   "description": "Adds spaces to text",
   "main": "index.js",
   "repository": "github:cojored/addspace",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
